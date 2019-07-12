@@ -5,6 +5,7 @@
 \header {
 	title = "Aleluya"
 	composer = "P. Gerardo Javier Flores Cárdenas"
+	instrument = "Tenor"
 	tagline = "Coro Juvenil San Juan Bosco"
 }
 #(set-global-staff-size 20)
@@ -28,12 +29,7 @@ globalTempo = {
 		\override Score.NoteColumn #'force-hshift = #1.0
 
 		\include "aleluyagflores-acordes.inc"
-		\new StaffGroup <<
-			\include "aleluyagflores-soprano.inc"
-			\include "aleluyagflores-mezzo.inc"
-			\include "aleluyagflores-tenor.inc"
-		>>
-		\include "aleluyagflores-flauta.inc"
+		\include "aleluyagflores-tenor.inc"
 
 	>>
 

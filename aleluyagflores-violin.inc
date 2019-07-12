@@ -1,13 +1,13 @@
-\context Staff = "Flauta" <<
-	\set Staff.instrumentName = "Flauta"
-	\set Staff.shortInstrumentName = "Fl."
-	\set Staff.midiInstrument = "Flauta"
+\context Staff = "violin" <<
+	\set Staff.instrumentName = "Violín"
+	\set Staff.shortInstrumentName = "V."
+	\set Staff.midiInstrument = "Violin"
 	\set Score.skipBars = ##t
 	\set Staff.printKeyCancellation = ##f
 	\new Voice \global
 	\new Voice \globalTempo
 
-	\context Voice = "voz-flauta" {
+	\context Voice = "voz-violin" {
 		\override Voice.TextScript #'padding = #2.0
 		\override MultiMeasureRest #'expand-limit = 1
 

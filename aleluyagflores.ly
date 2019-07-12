@@ -33,7 +33,7 @@ globalTempo = {
 			\include "aleluyagflores-mezzo.inc"
 			\include "aleluyagflores-tenor.inc"
 		>>
-		\include "aleluyagflores-flauta.inc"
+		\include "aleluyagflores-violin.inc"
 
 	>>
 

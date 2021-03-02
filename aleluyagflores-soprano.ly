@@ -35,7 +35,7 @@ globalTempo = {
 
 	\layout {
 		\context {
-			\RemoveEmptyStaffContext
+			%\RemoveEmptyStaffContext
 		}
 	}
 }

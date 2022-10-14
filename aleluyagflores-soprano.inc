@@ -106,7 +106,7 @@
 		\bar "|."
 	}
 
-	\lyricsto "voz-soprano" \new Lyrics \lyricmode {
+	\new Lyrics \lyricsto "voz-soprano" {
 		A -- le -- lu -- ya, a -- le __ lu -- ya.
 		A -- le -- lu -- ya, a -- le -- lu -- ya.
 		A -- le -- lu -- ya, a -- le __ lu -- ya.

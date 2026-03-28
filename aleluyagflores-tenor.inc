@@ -94,13 +94,6 @@
 		A -- le -- lu -- ya, a -- le __ lu -- ya.
 		A -- le -- lu -- ya, a -- le -- lu -- ya.
 
-		Por su pro -- pia vo __ lun tad __
-		el Pa -- dre nos en __ gen -- dró
-		me -- dian -- te la pa -- la -- bra de __ la ver -- dad,
-		pa -- ra que fué -- ra -- mos
-		pri -- mi -- cias de sus cre -- a -- tu -- ras.
-
-
 		A -- le -- lu -- ya, a -- le __ lu -- ya.
 		A -- le -- lu -- ya, a -- le -- lu -- ya.
 		A -- le -- lu -- ya, a -- le __ lu -- ya.
